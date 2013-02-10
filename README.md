@@ -1,4 +1,6 @@
 LDAP GET TOGETHER FRANCE
 ========================
 
-We are a community of French speaking people involved in LDAP.
+This is the website of LDAPGTF group.
+
+This site is based on immaculate theme from http://www.priteshgupta.com/ (theme under BSD license).
